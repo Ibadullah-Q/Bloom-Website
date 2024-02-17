@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+nav{
+    padding:0px 100px !important;
+
+
+}
+
+
+.sectionn1{
+    background-color: rgb(238, 238, 238);
+    word-spacing: 12%;
+    padding: 0px 30px;
+
+}
+.para{
+    padding-top: 30px;
+}
+.imgdiv{
+    padding-bottom: 30px;
+    padding-top: 30px;
+    width: 100%;
+    height: 100%;
+
+    
+}
+
+h2{
+    padding-left: 70px;
+}
+.col{
+padding: 0px 80px !important;
+}
+
+
+button{
+    background-color: orangered;
+    color: white;
+    border-radius: 5px !important;
+    border: none;
+    padding: 4px 8px;
+
+}
